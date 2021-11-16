@@ -1,4 +1,4 @@
-# Personal Project Mangement Templates
+# Personal Project Management Templates
 ## For managing projects, teams, communication etc.
 
 
